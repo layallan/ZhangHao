@@ -30,9 +30,9 @@ education:
   courses:
     - course: MASc in Electrical and Computer Engineering
       institution: Uinversity of Victoria
-      year: ""
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
+      year: 2022
+    - course: BSc in Electrical and Computer Engineering
+      institution: Tianjin University
       year: 2020
 email: ""
 superuser: true
