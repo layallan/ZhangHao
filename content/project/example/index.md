@@ -1,14 +1,15 @@
 ---
 slides: example
 url_pdf: ""
+date: 2021-12-27T04:25:05.611Z
 summary: ""
 url_video: ""
-date: 2021-12-27T04:25:05.611Z
-external_link: ""
-url_slides: ""
 title: Nanoplasmonics Research Group
+featured: true
 tags:
   - Nanoplasmonics
+external_link: ""
+url_slides: ""
 links:
   - icon: ""
     icon_pack: fab
