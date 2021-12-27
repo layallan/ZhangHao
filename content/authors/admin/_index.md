@@ -1,6 +1,6 @@
 ---
 title: Hao Zhang
-role: M.A.S.c Student at University of Victoria
+role: M.A.S.c Student at ECE Department
 bio: My research interests include quantum optics, quantum computing
   (superconducting/ion-trap circuit), microwave circuit design.
 interests:
@@ -22,19 +22,18 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/in/zhanghao27/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Victoria
+    url: https://www.uvic.ca/
+  - name: University of British Columbia
+    url: https://www.ubc.ca/
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
+    - course: MASc in Electrical and Computer Engineering
+      institution: Uinversity of Victoria
+      year: ""
     - course: BSc in Artificial Intelligence
       institution: Massachusetts Institute of Technology
-      year: 2008
+      year: 2020
 email: ""
 superuser: true
 highlight_name: true
