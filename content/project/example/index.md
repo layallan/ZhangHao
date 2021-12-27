@@ -17,6 +17,7 @@ links:
 image:
   caption: Photo by Hao Zhang
   focal_point: Smart
+  filename: nanosecret_1.jpg
 url_code: ""
 ---
 ![](nanosecret_1.jpg)
