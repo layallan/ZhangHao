@@ -34,10 +34,10 @@ education:
     - course: BSc in Electrical and Computer Engineering
       institution: Tianjin University
       year: 2020
-email: ""
+email: haozhang001@uvic.ca
 superuser: true
 highlight_name: true
 ---
 Hao Zhang is a research assistant in the Nanoplasmonics Research Group at the University of Victoria. He is a Canada Quantum BC Scholar who is receiving Quantum Computing NSERC CREATE scholarship. His research focuses on applying nano-scale plasmon-enhanced optical tweezer to explore novel single-photon quantum sources and other quantum optical effects.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_HaoZhang.pdf" "newtab" >}}resumé{{< /staticref >}}.
