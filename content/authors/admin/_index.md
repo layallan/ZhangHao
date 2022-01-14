@@ -30,10 +30,13 @@ education:
   courses:
     - course: MASc in Electrical and Computer Engineering
       institution: Uinversity of Victoria
-      year: 2022
+      year: 2020-2022
+    - course: MASc in Electrical and Computer Engineering
+      institution: Uinversity of British Columbia
+      year: 2020-2021
     - course: BSc in Electrical and Computer Engineering
       institution: Tianjin University
-      year: 2020
+      year: 2016-2020
 email: haozhang001@uvic.ca
 superuser: true
 highlight_name: true
